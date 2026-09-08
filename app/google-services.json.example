@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606804774892",
+    "project_id": "morya-vip-pass-scanner",
+    "storage_bucket": "morya-vip-pass-scanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606804774892:android:6705ca235e75bb6f2dfac9",
+        "android_client_info": {
+          "package_name": "com.nikhil.vippassscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
