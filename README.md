@@ -80,7 +80,7 @@ An Android application designed for fast and reliable VIP pass verification at e
 
 &#x20;  `app/google-services.json`
 
-
+Create your own Firebase project and replace app/google-services.json with the configuration file downloaded from your Firebase project.
 
 5\. Sync Gradle.
 
