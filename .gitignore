@@ -1,0 +1,33 @@
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.ipr
+*.iws
+
+# Generated files
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / local Firebase config
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+app/google-services.json
+# Release builds
+app/release/

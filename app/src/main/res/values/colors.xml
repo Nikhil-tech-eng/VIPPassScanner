@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Temple Theme -->
+    <color name="primary">#EDA866</color>          <!-- Deep Saffron -->
+    <color name="primaryDark">#BF360C</color>      <!-- Dark Saffron -->
+    <color name="primaryLight">#FFB74D</color>     <!-- Light Orange -->
+
+    <!-- Accent -->
+    <color name="gold">#FFD54F</color>             <!-- Temple Gold -->
+
+    <!-- Background -->
+    <color name="background">#F9F4EC</color>       <!-- Ivory -->
+
+    <!-- Text -->
+    <color name="textPrimary">#3E2723</color>      <!-- Dark Brown -->
+    <color name="textSecondary">#6D4C41</color>
+
+    <!-- Status -->
+    <color name="success">#2E7D32</color>
+    <color name="warning">#F9A825</color>
+    <color name="error">#C62828</color>
+
+    <!-- Default -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
